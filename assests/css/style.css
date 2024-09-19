@@ -1,4 +1,27 @@
 header{
-    background-image: url(../img/foto.jpg);
+    background-image: url(../img/Quimica.webp);
     padding: 40px;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-size: 60px;
+    color: antiquewhite;
+}
+.subtitulo{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: antiquewhite;
+}
+.segundo{
+    padding: 40px;
+}
+.primer_parrafo{
+    font-size: 20px;
+    font-weight: 900;
+}
+h2{
+    text-align: center;
+    font-weight: 700;
 }
